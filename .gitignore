@@ -1,0 +1,6 @@
+# app
+.env
+
+# python
+*.pcy
+__pycache__
